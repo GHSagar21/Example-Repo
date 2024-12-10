@@ -1,3 +1,4 @@
+// User Model 
 package com.example.TestProject.model;
 
 import jakarta.persistence.Entity;
